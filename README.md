@@ -10,3 +10,4 @@ Hotel Management System – Python &amp; MySQL Project  This is a simple hotel m
 6.Generation of total bill (room + restaurant)
 7.Exit/Logout functionality
 
+
